@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="portfolio.css">
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
+     <div class="navbar" id="navbar">
+        <p>About</p>
+        <p>Project</p>
+        <p>Contact</p>
+    </div>
+    <div class="icon" onclick="toggleNavbar()"></div>
+    <script>
+        function toggleNavbar() {
+            var navbar =
+            document.getElementById('navbar');
+            navbar.style.display =
+            (navbar.style.display === 'none' || navbar.style.display === '' ) ?
+            'block' : 'none';
+        }
+    </script>
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+        }
+        
+.navbar{
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    padding: 15px;
+    box-sizing: border-box;
+    color: white;
+    z-index: 1000;
+}
+.icon{
+    font-size: 24px;
+    cursor: pointer;
+    color: white;
+}
+
+    </style>
+</head>
+<body>
+    <div class="cant">
+    <header>
+        <img src="loo.png" alt="" width="70"><span>Arowolo Rahman</span></header>
+        <h1> Arowolo</h1>
+        <h2>Abdulrahman is......</h2>
+        <p>...an innovative product designer with</p>
+        <p>thousands of design hours under his belt</p> <br> <br>
+        <p>Download resume</p>
+    </div>
+    
+    <div class="pot">
+        <div class="pot1">
+        <img src="portfolioimage.svg" alt="" width="500px" height="500px">
+        </div>
+        <div class="pot1">
+            <img src="portfolioimage3.svg" alt="" width="500px" height="500px">
+        </div>
+        <div class="pot1">
+            <img src="portfolioimage5.svg" alt="" width="500px" height="500px">
+        </div>
+    </div>
+    <div class="about">
+        <h1>Wanna Know me?</h1> <br> <br>
+        <p>I am a passionate website designer crafting</p>
+        <p>user-friendly interfaces for real problems</p>
+        <p>Beyond design,i'm a dedicated twitter user</p>
+        <p>movie lover, and a machester united fan</p>
+        <p>music has always helped me by the way</p> <br> <br>
+        <img src="Untitled-4.png" alt="" width="400px" height="400px">
+    </div>
+
+    <div class="design">
+        <h1>I design</h1> <br>
+        <h1> stuff</h1>
+        <p>I design user-centered designs for mobile</p>
+        <p>apps and websites in various sectors,</p>
+        <p>including e-commerce, fintech, and web 3.0</p>
+        <p>combining functionality and aesthethics for</p>
+        <p>exceptional digital experience</p> <br> <br>
+        
+        <button><P>See my work→</P></button> <br>
+        <!-- <p id="rr">Total</p>
+        <script>
+            function add(){
+                let element = document.getElementById("rr");
+            element.innerHTML = "Total:" + (2 + 2);
+            element.style.color = "red";
+            element.style.fontSize = "50px";
+            element.style.textAlign = "center";
+            }
+            let info = {
+                name: "Ibrahim",
+                age: 23,
+                country: "Nigeria",
+            }
+            let infoname = document.getElementById("rr");
+            
+            infoname.innerHTML = "My name is " + (info.name) + " Age is " + (info.age); -->
+
+            
+        </script>
+        <h1>I write,</h1>
+        <h1>sometimes</h1> <br>
+        <p>i seize every oppurtunity to create diverse</p>
+        <p>articles, covering an array of topics including</p>
+        <p>UI/UX, lifestyle, music, movies, mathematics</p> <br> <br>
+
+        <button type="button" onclick="document.getElementById('click')"><p>Read my articles→</p></button>
+        
+        
+    </div>
+    <div class="contact">
+        <p>Contact me</p>
+    </div>
+    <div class="hello">
+    <h1>I'd love to hear from you</h1> <br>
+    <p>Got a question or proposal? or just wanna say hello?</p>
+    <h2>Go ahead</h2> <br>
+    <img src="20230223_004721.jpg" alt="" width="320px" height="100px">
+    </div>
+    <div class="mail"> <br>
+        <img src="icon.jpg" alt="" width="40px"> <br> <br>
+        <h2> Send a mail to me</h2>
+        <p>Got a project you want me to work on?</p> <br>
+        <p>Hit me up!</p> <br>
+        <h4><a href="#">rahmanbolaji43@gmail.com</a></h4>
+
+        <img src="icon2.jpg" alt="" width="40px"> <br> <br>
+        <h2>Call me</h2>
+        <p>Got a project you wanna work on?</p> <br>
+        <p>Hit me up</p> <br>
+         <h4>+234 907 635 2266</h4>
+         <img src="icon in.jpg" alt="" width="40px"> <br> <br>
+         <h2>connect with me</h2>
+         <p>Got a project you want us to work on?</p> <br>
+         <p>Hit me up!</p> <br>
+         <h4><a href="">My linkedln</a></h4>
+    </div>
+    <footer>
+        <img src="loo.png" alt="" width="70"><span>Arowolo Rahman</span>
+        <p class="footerparagraph">
+            copyright &copy; codeAndcreate All Rights
+        </p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="88.9mm" height="50.8mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8890 5080"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="667" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Arial">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="R" horiz-adv-x="722"><path d="M79.001 0l0 715.999 317.328 0c63.8398,0 112.34,-6.50491 145.501,-19.3365 33.1738,-12.8316 59.6644,-35.4906 79.4974,-67.9897 19.833,-32.5118 29.6731,-68.5116 29.6731,-107.834 0,-50.8427 -16.4978,-93.6657 -49.3279,-128.507 -32.8428,-34.8287 -83.5073,-56.8257 -152.172,-66.3348 25.1668,-11.9914 44.1596,-23.9956 57.1694,-35.6688 27.6618,-25.3322 53.8342,-57.1567 78.3263,-95.3333l123.835 -194.995 -118.336 0 -94.6586 149.002c-27.509,43.1667 -50.3335,75.9967 -68.1679,98.834 -17.9999,22.8245 -34.0012,38.6603 -48.1695,47.8258 -14.0027,8.99995 -28.502,15.3394 -43.1667,19.0056 -10.6675,2.16406 -28.171,3.3352 -52.6631,3.3352l-109.667 0 0 -318.002 -95.0023 0zm95.0023 399.995l203.333 0c43.3321,0 77.0024,4.50634 101.329,13.5063 24.3393,8.83446 42.8357,23.1682 55.3363,43.0012 12.6661,19.6675 18.9928,41.0026 18.9928,64.1581 0,33.8357 -12.1569,61.8412 -36.6617,83.6728 -24.5048,21.8316 -63.1651,32.6646 -115.994,32.6646l-226.335 0 0 -237.003z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";src:url("#FontID0") format(svg)}
+    .str0 {stroke:#A82682;stroke-width:50}
+    .fil0 {fill:none}
+    .fil1 {fill:#A82682}
+    .fnt0 {font-weight:normal;font-size:785.56px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2914684435968">
+   <ellipse class="fil0 str0" cx="4186" cy="2917" rx="1134" ry="1127"/>
+   <ellipse class="fil0 str0" cx="4704" cy="2163" rx="1134" ry="1127"/>
+   <text x="4333" y="2663"  class="fil1 fnt0">R</text>
+  </g>
+ </g>
+</svg>
